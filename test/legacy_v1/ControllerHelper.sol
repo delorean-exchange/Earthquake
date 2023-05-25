@@ -7,8 +7,8 @@ import {VaultFactory, TimeLock} from "../../src/legacy_v1/VaultFactory.sol";
 import {Controller} from "../../src/legacy_v1/Controller.sol"; 
 import {PegOracle} from "../../src/oracles/PegOracle.sol";
 import {ERC20} from "@solmate/tokens/ERC20.sol";
-import {FakeOracle} from "./oracles/FakeOracle.sol";
-import {DepegOracle} from "./oracles/DepegOracle.sol";
+import {FakeOracle} from "./../oracles/FakeOracle.sol";
+import {DepegOracle} from "./../oracles/DepegOracle.sol";
 
 /// @author nexusflip
 
