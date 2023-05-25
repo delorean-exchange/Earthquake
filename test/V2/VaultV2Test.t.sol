@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.17;
+pragma solidity ^0.8.15;
 
 import "./Helper.sol";
 import "../../src/v2/VaultV2.sol";

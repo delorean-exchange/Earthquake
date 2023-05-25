@@ -1,7 +1,7 @@
 import {IVaultFactoryV2} from "./interfaces/IVaultFactoryV2.sol";
 
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.17;
+pragma solidity ^0.8.15;
 
 // source: https://solidity-by-example.org/app/time-lock/
 

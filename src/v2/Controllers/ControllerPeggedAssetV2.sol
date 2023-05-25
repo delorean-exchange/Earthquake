@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.17;
+pragma solidity ^0.8.15;
 
 import {IVaultFactoryV2} from "../interfaces/IVaultFactoryV2.sol";
 import {IVaultV2} from "../interfaces/IVaultV2.sol";
